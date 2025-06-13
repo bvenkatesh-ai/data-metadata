@@ -1,0 +1,1 @@
+For AI depending on the usecase we required data for training AI models. We have datasets available.
